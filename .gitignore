@@ -1,0 +1,23 @@
+# React
+node_modules/
+build/
+dist/
+
+# .env file
+.env
+
+# Logs
+npm-debug.log
+yarn-error.log
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.swp
+
+# Operating system files
+.DS_Store
+Thumbs.db
